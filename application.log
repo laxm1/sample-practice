@@ -1,6 +1,6 @@
 2024-05-15 11:12:22 INFO  TestBase:44 - Brower Name :chrome
   2024-05-15 11:12:24 INFO  TestBase:49 - Application URL : https://www.facebook.com/
-  2024-05-15 11:12:25 INFO  TestBase:22 - Clicking Toggle bar
+  2024-05-15 11:12:25 INFO  TestBase:22 - Clicking Toggl
   2024-05-15 11:12:34 INFO  TestBase:34 - close method
   2024-05-15 11:17:30 INFO  TestBase:48 - Brower Name :chrome
   2024-05-15 11:17:32 INFO  TestBase:53 - Application URL : https://www.facebook.com/
